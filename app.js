@@ -8,7 +8,6 @@ switch (comando) {
     case list:
         console.log(tareas.listar);
         break;
-
     default:
         break;
 }
